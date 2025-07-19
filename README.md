@@ -85,3 +85,4 @@ This section covers the core of the project: training the AutoML-FIRE framework 
 Apply SMOGN to the main file and cluster files using _smogn.ipynb_ before the model development.
 
 #### Model training
+Use the following [MATLAB Code](https://zenodo.org/records/14206225)
