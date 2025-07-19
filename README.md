@@ -58,9 +58,6 @@ Use _era5_preprocessing.ipynb_ to make single file of each variable containg all
 
 6. NOAA (NDVI): Download the files using the script _downloading_ndvi.ipynb_ and save the files according to the structure given above. Subsequently use the _ndvi_preprocessing.ipynb_ for make the unified file.
 
-7. Elevation: 
-
-9. Population:
 #### Combining data.
 
 Use _combining_data.ipynb_ to comhine the data and also get the filtered data of only top 30% of grids. 
