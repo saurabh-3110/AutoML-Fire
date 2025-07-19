@@ -6,7 +6,7 @@ This repository contains the official source code and resources for the research
 This project introduces a novel automated machine learning (AutoML) framework to predict daily forest fire counts across India, leveraging Bayesian optimization and explainable AI (XAI) techniques for enhanced accuracy and interpretability.
 Read the full paper: Preprint submitted to Environmental Modelling & Software
 
-Read the full paper: Preprint submitted to Environmental Modelling & Software
+Read the full paper: [AutoML-Fire: Automated machine-learning approach to predict forest fires](https://authors.elsevier.com/c/1lQrG4sKhEgvf~)
 
 
 ## About The Project
